@@ -1,0 +1,6 @@
+com/immutly/productmanagement/service/PriceUpdateService.class
+com/immutly/productmanagement/dto/ApiResponse.class
+com/immutly/productmanagement/controller/v1/PriceUpdateController.class
+com/immutly/productmanagement/ProductManagementApplication.class
+com/immutly/productmanagement/model/Product.class
+com/immutly/productmanagement/repository/ProductRepository.class
